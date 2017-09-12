@@ -1,3 +1,1 @@
-test
-training
-commit
+Created 3 commits in “master” branch
